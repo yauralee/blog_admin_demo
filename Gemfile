@@ -3,7 +3,7 @@ source 'https://rubygems.org'
 gem 'activeadmin', '1.0.0.pre2'
 
 # Plus integrations with:
-gem 'devise', '< 4.0'
+gem 'devise', '< 5.0'
 gem 'cancancan'
 gem 'draper'
 gem 'pundit'
